@@ -1,5 +1,6 @@
 # golang_json_config
 read config info from from .json file
-require
+
+require:
 
 github.com/bitly/go-simplejson
